@@ -132,6 +132,8 @@ dmypy.json
 # Custom
 test_ignore.txt
 test_ignore2.txt
+test.txt
+
 
 
 
